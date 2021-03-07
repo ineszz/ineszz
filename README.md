@@ -1,6 +1,6 @@
 # ✨ Hello there! I'm Ines 👋
 
-## About me:
+About me:
  - 🔭 I’m currently actively involved with R-Ladies Bucharest  & WiMLDS Bucharest. 
  - 👯 I’m looking for co-organisers for R-Ladies Bucharest chapter (if interested, send me a message)
  - 🌱 I’m currently learning python ( if you'd like to learn together, send me a message)
