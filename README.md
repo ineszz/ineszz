@@ -1,7 +1,7 @@
 # ✨ Hello there! I'm Ines 👋
 
 About me:
- - 🔭 I’m currently involved with WiMLDS Bucharest. 
+ - 🔭 I’m currently improving my knowledge of R & Python ;-)
 
  📫 Reach me: 
  - :iphone: <a href="https://twitter.com/inesz">twitter</a>
