@@ -1,7 +1,7 @@
 # ✨ Hello there! I'm Ines 👋
 
 About me:
- - 🔭 I’m currently improving my knowledge of R & Python ;-)
+ - 🔭 I’m currently on a journey of improving my knowledge  ;-)
 
  📫 Reach me: 
  - :iphone: <a href="https://twitter.com/inesz">twitter</a>
