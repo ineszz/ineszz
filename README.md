@@ -6,22 +6,6 @@
 🔍 Exploring the world of data to uncover valuable insights and solve complex problems through data-driven decision-making.
 
 
-🧪 Experienced in:
-- Data Analysis
-- Machine Learning
-- Statistical Modeling
-- Data Visualization
-
-🛠️ Tools & Technologies:
-- Python (NumPy, Pandas, Scikit-Learn, TensorFlow, Streamlit)
-- R (Tidyverse)
-- SQL
-- SAS
-- Jupyter Notebooks
-- Tableau
-- Google Locker Studio (Data Studio)
-- Git
-
 
 📚 Constantly learning and staying updated with the latest trends in data science and AI to push the boundaries of what's possible.
 
